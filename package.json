@@ -1,0 +1,22 @@
+{
+  "name": "heroku1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "First.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeetuDagar/first-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeetuDagar/first-app/issues"
+  },
+  "homepage": "https://github.com/NeetuDagar/first-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
